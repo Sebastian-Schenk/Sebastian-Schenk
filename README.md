@@ -1,16 +1,14 @@
-## Hi there 👋
+# ⬛ ARCHITECT OF THE S-TOWER | Sebastian Schenk
 
-<!--
-**Sebastian-Schenk/Sebastian-Schenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Building systems that scale. Driven by precision and 5:00 AM discipline."
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+- **Frontend:** Flutter & Dart (Cross-Platform)
+- **Infrastructure:** Linux VPS, Secure SSH, GPG Signed Workflows
+- **Focus:** Railway Systems & Logistics Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 System Status
+![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebastian-Schenk&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa)
+
+---
+*Verified Commits Only. Building the future of the S-Tower.*
